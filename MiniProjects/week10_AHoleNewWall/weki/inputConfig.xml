@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/wek/realinputs</oscMessage>
+  <numInputs>9</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>realinputs-1</string>
+    <string>realinputs-2</string>
+    <string>realinputs-3</string>
+    <string>realinputs-4</string>
+    <string>realinputs-5</string>
+    <string>realinputs-6</string>
+    <string>realinputs-7</string>
+    <string>realinputs-8</string>
+    <string>realinputs-9</string>
+  </inputNames>
+</OSCInputGroup>
