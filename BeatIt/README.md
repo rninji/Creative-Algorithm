@@ -11,16 +11,16 @@
 - Processing
 - Wekinator
 
-## Process
-
-
+## Detail
+#### Notion
+https://past-baker-2c2.notion.site/Beat-It-Synk-Aespa-7eeed6686ecc4ee494faa6daac334c8b
 
 #### Screen Shots
 <img width="1125" alt="스크린샷 2023-05-27 오후 7 33 35" src="https://github.com/rninji/Creative-Algorithm/assets/78344310/197982b7-587a-4e72-9965-e7171fa63daa"> | <img width="908" alt="스크린샷 2023-05-27 오후 7 33 51" src="https://github.com/rninji/Creative-Algorithm/assets/78344310/63f783a3-024c-45cf-b987-d431bf7871f4"> | <img width="1097" alt="스크린샷 2023-05-27 오후 7 34 28" src="https://github.com/rninji/Creative-Algorithm/assets/78344310/4ea2cdff-90b6-4e19-95ad-fb114d6ca64a">
 | --- | --- | --- |
 
 #### Demo Video
-- Video Link : https://drive.google.com/file/d/1b88e0Cf9AfZ4SbpAIa81JPVA4Cs-cbfV/view?usp=sharing
+[![Video Label](https://img.youtube.com/vi/Ll696Sg8iFM/0.jpg)](https://youtu.be/Ll696Sg8iFM)
 
 
 
